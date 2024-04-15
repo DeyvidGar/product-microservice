@@ -8,10 +8,11 @@
 2. **Discovery client**
 3. **Config server client**
 4. **Config repository**
+5. **Gateway**
 
 ## Architecture
 
-![Architecture diagram.](https://raw.githubusercontent.com/DeyvidGar/assets/master/Microservice-product-wc.png)
+![Architecture diagram.](https://raw.githubusercontent.com/DeyvidGar/assets/master/Microservice-architecture.png)
 
 ## Configuration
 
@@ -66,6 +67,16 @@ https://github.com/DeyvidGar/config-repository-microservices.git
 
 ```console
 https://github.com/DeyvidGar/initial-artifact-microservice.git
+```
+
+### 5. Start up Gateway
+
+<p>Finally steps is create the microservice apps, for example you can clone the artifact of a microservice.</p>
+
+<p>You can clone the repository:</p>
+
+```console
+https://github.com/DeyvidGar/api-gateway.git
 ```
 
 ## What i need?
